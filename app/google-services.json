@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "31835017932",
+    "firebase_url": "https://fir-contacts-ddc64.firebaseio.com",
+    "project_id": "fir-contacts-ddc64",
+    "storage_bucket": "fir-contacts-ddc64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31835017932:android:4f31cd1637d424e3",
+        "android_client_info": {
+          "package_name": "com.firebase.firebaseusers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31835017932-t3arpbij7j9lqqn6fnfpee0nkmb5vh1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase.firebaseusers",
+            "certificate_hash": "e63b0ca8c31fb140138e6cbce4515903f8d05c2e"
+          }
+        },
+        {
+          "client_id": "31835017932-kdn20huq1850v63j273lc9q9hgm984v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeM9BBPb1R57BpOV1Syjl1r_4h8qrmDkA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31835017932-kdn20huq1850v63j273lc9q9hgm984v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
